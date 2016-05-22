@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  concert_goer_id: 
+  show_id: 
+
+two:
+  name: MyString
+  concert_goer_id: 
+  show_id: 
